@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        var distance = readLine()!!.toInt() // the distance back
+        var totalDistance = readLine()!!.toInt()
+
+        // fix the code below
+        if (distance < 0) {
+            val distance = -distance
+        }
+        totalDistance += distance
+        println(totalDistance)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17124#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 24 Feb 2023 09:15:22 UTC
+record: -1

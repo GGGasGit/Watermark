@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // change the code below
+
+        for (i in 2..10) {
+            var thirteen = 13L
+            thirteen *= 13
+            println(thirteen)
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17121#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 24 Feb 2023 09:29:30 UTC
+record: -1

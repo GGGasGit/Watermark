@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="java version &quot;17.0.3+7&quot;" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/About call stack" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/Adding a new stack frame" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/Cleaning data" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/Follow the call stack" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/Removing a stack frame" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/The shortest stack" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/The size of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Call stack/What does a stack frame hold" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Check the numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Counting" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Down to" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Find the max" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Individual taxes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Is it here" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Iteration" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Step" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Triples" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Alpha Channel" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/BufferedImage functions" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Color instance initiation" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Coordinate system" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Generate ARGB value" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Print color" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/RGB 24-bit" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/RGB color" />
+            <option value="$PROJECT_DIR$/Topics/Image colors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Color encoding" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a polygon" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a red square" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing three strings" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Raster Images" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Representing images in Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Supported formats" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/A bow and a cat" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Busy internship" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Christmas tree" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Clothing problem" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Heroes and villains" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/New Inner class" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Pumpkin and candle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Why do we need inner classes" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Blocks in a box" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Cell" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Facts about constants" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Library" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Manager" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Me" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Singleton defined" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Code review" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/If" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Inside a function" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Non-overlapping scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Types of scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/What is the scope" />
+            <option value="$PROJECT_DIR$/Watermark/task" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

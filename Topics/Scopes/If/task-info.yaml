@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The whole <code>main()</code> function
+- text: The entire program
+- text: Only the block <code>if</code> in the <code>if-else</code> expression
+- text: This variable has no scope
+- text: All <code>if-else</code> expression
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17120#comment
+status: Solved
+record: -1
+local_check: false

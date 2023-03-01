@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Call_stack-What_does_a_stack_frame_hold" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Call stack/What does a stack frame hold" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Watermark" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Call stack/What does a stack frame hold">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Call stack/What does a stack frame hold/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Call stack/What does a stack frame hold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Call stack/What does a stack frame hold/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

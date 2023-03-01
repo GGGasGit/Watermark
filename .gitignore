@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Topics/Call stack/Follow the call stack/out/
+/Topics/Call stack/Follow the call stack/out/production/classes/
+/Topics/For loop and arrays/Triples/out/
+/Topics/For loop and arrays/Triples/out/production/classes/
+/Topics/Image colors/Generate ARGB value/out/
+/Topics/Image colors/Generate ARGB value/out/production/classes/
+/Topics/Image colors/Print color/out/
+/Topics/Image colors/Print color/out/production/classes/
+/Topics/Nested and inner classes/New Inner class/out/
+/Topics/Nested and inner classes/New Inner class/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Watermark/task/build/
+/Watermark/task/out/
+/Watermark/task/out/production/classes/
